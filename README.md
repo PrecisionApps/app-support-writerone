@@ -1,22 +1,22 @@
-# Card Value Scanner – App Support Site
+# Book Writer One – App Support Site
 
-Support website for Card Value Scanner, an AI-powered card scanning app that helps you digitize and analyze card information.
+Support website for Book Writer One, an AI-powered writing app that helps you create and organize book content.
 
 ## ⚠️ Data Privacy Notice
 
-**Card Value Scanner processes card images ONLY for information extraction.** This app does NOT store card data permanently, collect payment information, or perform financial transactions. All processing is for informational purposes only.
+**Book Writer One processes text content ONLY for writing assistance.** This app does NOT store user content permanently, collect personal information beyond what's necessary for functionality, or share data with third parties without consent. All processing is for writing enhancement purposes only.
 
 ## Privacy Highlights
 
-- **No permanent storage** – card images are processed temporarily and not retained
-- **2D image only** – only the image file you upload is processed
-- **Secure processing** – images are sent to our secure backend to be processed by an LLM
-- **Not permanently stored** – images are not saved in databases or used for training
+- **No permanent storage** – text content is processed temporarily and not retained
+- **Local processing** – content is processed on-device where possible
+- **Secure backend** – when cloud processing is used, it's encrypted and temporary
+- **Not permanently stored** – content is not saved in databases or used for training without consent
 
 ## Pages
 
 - `index.html` – Main support page with FAQs
-- `privacy.html` – Privacy Policy (emphasizes image handling)
+- `privacy.html` – Privacy Policy (emphasizes content handling)
 - `terms.html` – Terms of Service (data privacy disclaimers throughout)
 - `404.html` – Error page
 
